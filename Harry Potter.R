@@ -1,5 +1,3 @@
-setwd("C:/#/R/Mini projects/Harry_Potter_Movies")
-
 chapters <- read.csv("Chapters.csv")
 characters <- read.csv("Characters.csv")
 dialogue <- read.csv("Dialogue.csv")
